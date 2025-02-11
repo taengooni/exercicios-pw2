@@ -4,6 +4,7 @@ public class App {
         String name = "ayla";
         int age = 19;
         double height = 1.65;
+        boolean canVote = false;
      System.out.println("Nome: " + name);
      System.out.println("Sua idade é: " + age);
      System.out.println("Sua altura é: " + height);
